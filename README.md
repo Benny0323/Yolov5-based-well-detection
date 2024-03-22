@@ -1,6 +1,6 @@
 # Yolov5 based well detection
  To-do list:
- - [x]Model Ensembling
+ [x] Model Ensembling
  2.Shape IOU
  3. Multi-scale training
  4. Upsampling strategy
