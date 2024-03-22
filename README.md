@@ -4,4 +4,4 @@
  - [x] Shape IOU
  - [x] Multi-scale training
  - [ ] Upsampling strategy
- - [ ] kepp training model, delveing into best epoch and hyperparameter settings
+ - [ ] kepp training model, delving into best epoch and hyperparameter settings
