@@ -1,6 +1,6 @@
 # Yolov5 based well detection
  To-do list:
- - [ ] Model Ensembling
+ - [x] Model Ensembling
  https://github.com/ultralytics/yolov5/issues/318
  - [x] Shape IOU
  - [x] Multi-scale training
