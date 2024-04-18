@@ -21,4 +21,5 @@
 ## Strat evaluating
 
 ## Training by yourself
-Our model‘s best checkpoint is located at https://drive.google.com/file/d/1fclRgDYc_duWns63MbTeKRffmSPdP7BA/view?usp=sharing, you can download it freely.
+Our model‘s best checkpoint is located at the link below, you can download it freely.
+https://drive.google.com/file/d/1fclRgDYc_duWns63MbTeKRffmSPdP7BA/view?usp=sharing.
