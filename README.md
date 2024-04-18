@@ -18,5 +18,7 @@
 
 * NVIDIA GPU (memory>=30G) + CUDA cuDNN
 
+## Strat evaluating
+
 ## Training by yourself
 Our model‘s best checkpoint is located at https://drive.google.com/file/d/1fclRgDYc_duWns63MbTeKRffmSPdP7BA/view?usp=sharing, you can download it freely.
