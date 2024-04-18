@@ -11,5 +11,12 @@
  - [x] kepp training model, delving into best epoch and hyperparameter settings
 
 
-Training：
+## Pre-requisties
+* Linux
+
+* Python>=3.7
+
+* NVIDIA GPU (memory>=6G) + CUDA cuDNN
+
+## Training by yourself
 Our model‘s best checkpoint is located at https://drive.google.com/file/d/1fclRgDYc_duWns63MbTeKRffmSPdP7BA/view?usp=sharing, you can download it freely.
