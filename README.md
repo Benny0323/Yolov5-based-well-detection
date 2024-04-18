@@ -9,3 +9,7 @@
  - [x] Knowledge distillation
  https://blog.roboflow.com/what-is-knowledge-distillation/
  - [x] kepp training model, delving into best epoch and hyperparameter settings
+
+
+Training：
+Our model‘s best checkpoint is located at https://drive.google.com/file/d/1fclRgDYc_duWns63MbTeKRffmSPdP7BA/view?usp=sharing, you can download it freely.
