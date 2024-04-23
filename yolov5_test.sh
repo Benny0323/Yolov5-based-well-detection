@@ -1,5 +1,5 @@
 #!/bin/bash
-#SBATCH -J czh
+#SBATCH -J KDWC-Yolov5
 #SBATCH -p p-V100
 #SBATCH -N 1
 #SBATCH -n 1
@@ -7,7 +7,7 @@
 #SBATCH --gres=gpu:1
 #SBATCH -o out.%j
 #SBATCH -e err.%j
-#SBATCH -A P00120210009
+#SBATCH -A XXXXX
 ##################################################################
 
 module load cuda11.3/toolkit/11.3.0
