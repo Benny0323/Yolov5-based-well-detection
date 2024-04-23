@@ -37,11 +37,10 @@ If you want to get the images with bounding boxes, run the following command:
 ```
 python detect.py
 ```
-If you have a GPU cluster, I also provide you with a shell file, and you can run it with:
+If you have a GPU cluster, I also provide you with a script file using sbatch command, and you can run it with:
 ```
 sbatch val.sh
-```
-```
+
 sbatch detect.sh
 ```
 ## Training by yourself
