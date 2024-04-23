@@ -31,7 +31,7 @@ https://drive.google.com/file/d/1fclRgDYc_duWns63MbTeKRffmSPdP7BA/view?usp=shari
 ### Evaluation
 If you want to get the mAP value, run the following command:
 ```
-python Val.py
+python val.py
 ```
 If you want to get the images with bounding boxes, run the following command:
 ```
