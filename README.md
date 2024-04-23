@@ -42,6 +42,10 @@ If you have a GPU cluster, I also provide you with a script file using sbatch to
 sbatch yolov5_val.sh/sbatch yolov5_detect.sh
 ```
 **Tips**: You can also use "--" to add parameters in the runing command according to yourslef.
+E.g. If I want to output a txt file with the order of "Image name Confidence coefficient Coordinates", you can run the command below:
+```
+python detect.py --save-txt --save-conf
+```
 ## Training by yourself
 
 
