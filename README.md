@@ -37,11 +37,9 @@ If you want to get the images with bounding boxes, run the following command:
 ```
 python detect.py
 ```
-If you have a GPU cluster, I also provide you with a script file using sbatch command, and you can run it with:
+If you have a GPU cluster, I also provide you with a script file using sbatch to submit, and you can run it with:
 ```
-sbatch yolov5_val.sh
-
-sbatch yolov5_detect.sh
+sbatch yolov5_val.sh/sbatch yolov5_detect.sh
 ```
 ## Training by yourself
 
