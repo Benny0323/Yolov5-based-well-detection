@@ -29,9 +29,13 @@ Our model‘s best checkpoint is located at the link below, you can download it 
 https://drive.google.com/file/d/1fclRgDYc_duWns63MbTeKRffmSPdP7BA/view?usp=sharing
 
 ### Evaluation
-To do the evaluation process, run the following command:
+If you want to get the mAP value, run the following command:
 ```
-python Test.py
+python Val.py
+```
+If you want to get the images with bounding boxes, run the following command:
+```
+python detect.py
 ```      
 ## Training by yourself
 
