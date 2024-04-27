@@ -47,5 +47,9 @@ E.g. If I want to output a txt file with the order of "Image name Confidence coe
 python detect.py --save-txt --save-conf
 ```
 ## Training by yourself
+If you want to train our model by yourself, you can run the following command:
+```
+python train.py
+```
 
 
