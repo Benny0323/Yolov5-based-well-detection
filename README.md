@@ -9,6 +9,7 @@
  - [x] Knowledge distillation
  https://blog.roboflow.com/what-is-knowledge-distillation/
  - [x] kepp training model, delving into best epoch and hyperparameter settings
+ - [ ] Publish dataets after the competition ends.
 
 
 ## Pre-requisties
@@ -47,7 +48,7 @@ E.g. If I want to output a txt file with the order of "Image name Confidence coe
 python detect.py --save-txt --save-conf
 ```
 ## Training by yourself
-If you want to train our model by yourself, you can run the following command:
+If you want to train our model by yourself, you should firstly change the specify the location of your dataset in A30.yaml, then can run the following command:
 ```
 python train.py
 ```
@@ -55,5 +56,3 @@ Tips: You can also use "--" to add multi-scale parameters in the running command
 ```
 python train.py --multi-scale
 ```
-
-
