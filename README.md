@@ -48,7 +48,7 @@ E.g. If I want to output a txt file with the order of "Image name Confidence coe
 python detect.py --save-txt --save-conf
 ```
 ## Training by yourself
-If you want to train our model by yourself, you should firstly change the specify the location of your dataset in A30.yaml, then can run the following command:
+If you want to train our model by yourself, you should firstly change the specify the <path> of your dataset in "data/A30.yaml", then can run the following command:
 ```
 python train.py
 ```
