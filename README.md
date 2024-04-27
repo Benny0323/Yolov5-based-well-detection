@@ -41,7 +41,7 @@ If you have a GPU cluster, I also provide you with a script file using sbatch to
 ```
 sbatch yolov5_val.sh/sbatch yolov5_detect.sh
 ```
-**Tips**: You can also use "--" to add parameters in the runing command according to yourslef.
+**Tips**: You can also use "--" to add parameters in the running command according to yourslef.
 E.g. If I want to output a txt file with the order of "Image name Confidence coefficient Coordinates", you can run the command below:
 ```
 python detect.py --save-txt --save-conf
@@ -50,6 +50,10 @@ python detect.py --save-txt --save-conf
 If you want to train our model by yourself, you can run the following command:
 ```
 python train.py
+```
+Tips: You can also use "--" to add multi-scale parameters in the running command if you want to multi-scale training:
+```
+python train.py --multi-scale
 ```
 
 
