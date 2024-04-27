@@ -1,4 +1,5 @@
 # The hidden danger of manhole cover detection based on KDWC-YOLOv5(Knowledge Distillation Well Cover-YOLOv5)
+![image](https://github.com/Benny0323/BS/blob/main/framework.png)
 ### 🧨 Congratulations! We achieve 0.948 of mAP on 350 test images in a competition!
  To-do list:
  - [x] Model Ensembling
