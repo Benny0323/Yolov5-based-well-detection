@@ -50,7 +50,7 @@ E.g. If I want to output a txt file with the order of "Image name Confidence coe
 python detect.py --save-txt --save-conf
 ```
 ## Training by yourself
-If you want to train our model by yourself, you should firstly change the specify the **path** of your dataset in "data/A30.yaml", then can run the following command:
+If you want to train our model by yourself, you should firstly change the specify the **path** of your dataset in "data/A30.yaml", and you also nedd to specify a pretrained model(we use yolov5m: https://drive.google.com/file/d/16h2MhkAz4ntuPk4sySABDakP8O8uSw4m/view?usp=sharing), then can run the following command:
 ```
 python train.py
 ```
