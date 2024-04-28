@@ -59,3 +59,4 @@ Tips: You can also use "--" to add multi-scale parameters in the running command
 ```
 python train.py --multi-scale
 ```
+The pretrained model should be put under the root directory.
