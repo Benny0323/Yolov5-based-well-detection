@@ -55,8 +55,8 @@ and you also nedd to specify a pretrained model, we use [yolov5m](https://drive.
 ```
 python train.py
 ```
-Tips: You can also use "--" to add multi-scale parameters in the running command if you want to multi-scale training:
+Tip1: You can also use "--" to add multi-scale parameters in the running command if you want to multi-scale training:
 ```
 python train.py --multi-scale
 ```
-The pretrained model should be put under the root directory.
+Tip2: It is better to put the pretrained model under the root directory.
