@@ -51,8 +51,12 @@ python detect.py --save-txt --save-conf
 ```
 ## Training by yourself
 If you want to train our model by yourself, you should firstly change the specify the **path** of your dataset in "data/A30.yaml", 
-and you also nedd to specify a pretrained model(we use yolov5m: https://drive.google.com/file/d/16h2MhkAz4ntuPk4sySABDakP8O8uSw4m/view?usp=sharing), 
+and you also nedd to specify a pretrained model
+
+(we use yolov5m: https://drive.google.com/file/d/16h2MhkAz4ntuPk4sySABDakP8O8uSw4m/view?usp=sharing), 
+
 or you can choose other pretrained model via official link: https://github.com/ultralytics/yolov5,
+
 then can run the following command:
 ```
 python train.py
