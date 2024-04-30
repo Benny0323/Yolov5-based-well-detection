@@ -62,4 +62,5 @@ python train.py --multi-scale
 Tip2: It is better to put the pretrained model under the root directory.
 
 
-## Web App and Wechat Mini Program
+## Web App and Wechat Mini Program Demo
+
