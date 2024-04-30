@@ -63,6 +63,4 @@ Tip2: It is better to put the pretrained model under the root directory.
 
 
 ## Web App Demo
-<video src="https://github.com/Benny0323/Yolov5-based-well-detection/blob/main/Web_APP_demo.mp4" controls="controls" width="500" height="300"></video>
-
-
+https://github.com/Benny0323/Yolov5-based-well-detection/blob/main/Web_APP_demo.mp4
