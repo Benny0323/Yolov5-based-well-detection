@@ -62,5 +62,4 @@ python train.py --multi-scale
 Tip2: It is better to put the pretrained model under the root directory.
 
 
-## Web App and Wechat Mini Program Demo
-![image](https://github.com/Benny0323/Yolov5-based-well-detection/blob/main/Wechat%20Mini%20Program.png)
+## Web App Demo
