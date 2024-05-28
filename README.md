@@ -65,5 +65,7 @@ Tip2: It is better to put the pretrained model under the root directory.
 ## Web App Demo
 https://github.com/Benny0323/Yolov5-based-well-detection/assets/104205136/e3cab7d1-74a7-456b-b506-537bc038d5a8
 
+## Wechat Mini Program Demo
+
 
 ⭐**If you want to get the this app's developing codes or have any other questions, please feel free to conatact <a href="mailto:czh345068@gmail.com">czh345068@gmail.com</a>.**
