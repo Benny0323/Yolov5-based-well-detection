@@ -27,11 +27,11 @@
 pip install -r requirements.txt
 ```
 ### Download the checkpoint and dataset
-Our model‘s best checkpoint and dataset are located at the links below, you can download it freely.
+Our model‘s best checkpoint and dataset are located at the links below, you can download them freely.
 
 Checkpoint: https://drive.google.com/file/d/1fclRgDYc_duWns63MbTeKRffmSPdP7BA/view?usp=sharing
 
-Dataset: https://drive.google.com/file/d/1fclRgDYc_duWns63MbTeKRffmSPdP7BA/view?usp=sharing
+Dataset: https://drive.google.com/file/d/16f29aRAM8zAsiaks8zuPdAzIkuEz1RKA/view?usp=sharing
 
 ### Evaluation
 If you want to get the mAP value, run the following command:
