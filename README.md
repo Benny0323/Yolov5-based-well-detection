@@ -10,7 +10,7 @@
  - [x] Knowledge distillation
  https://blog.roboflow.com/what-is-knowledge-distillation/
  - [x] kepp training model, delving into best epoch and hyperparameter settings
- - [ ] Publish dataets after the competition ends.
+ - [x] Publish dataets after the competition ends.
  - [x] Publish a web app made by my team.
 
 
