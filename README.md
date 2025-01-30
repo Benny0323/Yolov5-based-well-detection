@@ -9,9 +9,10 @@
  - [x] Multi-scale training
  - [x] Knowledge distillation
  https://blog.roboflow.com/what-is-knowledge-distillation/
- - [x] kepp training model, delving into best epoch and hyperparameter settings
+ - [x] keep training model, delving into best epoch and hyperparameter settings
  - [x] Publish dataets after the competition ends.
  - [x] Publish a web app made by my team.
+ - [x] Publish a WeChat mini program made by my team.
 
 
 ## Pre-requisties
