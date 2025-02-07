@@ -73,3 +73,6 @@ https://github.com/user-attachments/assets/0cf1a184-dbdb-4163-8c53-7d4ce4215d3d
 
 
 ⭐**If you want to get the this app's developing codes or have any other questions, please feel free to conatact <a href="mailto:czh345068@gmail.com">czh345068@gmail.com</a>.**
+
+## Star History
+[![Star History Chart](https://api.star-history.com/svg?repos=Benny0323/Yolov5-based-well-detection&type=Date)](https://star-history.com/#Benny0323/Yolov5-based-well-detection&Date)
