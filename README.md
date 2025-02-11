@@ -4,7 +4,7 @@
   
 [![](https://img.shields.io/github/stars/Benny0323/Yolov5-based-well-detection)](https://github.com/Benny0323/Yolov5-based-well-detection)
 [![](https://img.shields.io/github/forks/Benny0323/Yolov5-based-well-detection)](https://github.com/Benny0323/Yolov5-based-well-detection)
-[![](https://img.shields.io/github/issuesBenny0323/Yolov5-based-well-detection)](https://github.com/Benny0323/Yolov5-based-well-detection)
+[![](https://img.shields.io/github/issues/Benny0323/Yolov5-based-well-detection)](https://github.com/Benny0323/Yolov5-based-well-detection)
 [![](https://img.shields.io/github/license/Benny0323/Yolov5-based-well-detection)](hhttps://github.com/Benny0323/Yolov5-based-well-detection/blob/main/LICENSE) 
 </div>
 ![image](https://github.com/Benny0323/Yolov5-based-well-detection/blob/main/demo.jpg)
