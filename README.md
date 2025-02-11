@@ -1,4 +1,12 @@
 # The hidden danger of manhole cover detection based on KDWC-YOLOv5(Knowledge Distillation Well Cover-YOLOv5)
+
+<div align="center">
+  
+[![](https://img.shields.io/github/stars/Benny0323/Yolov5-based-well-detection)](https://github.com/Benny0323/Yolov5-based-well-detection)
+[![](https://img.shields.io/github/forks/Benny0323/Yolov5-based-well-detection)](https://github.com/Benny0323/Yolov5-based-well-detection)
+[![](https://img.shields.io/github/issuesBenny0323/Yolov5-based-well-detection)](https://github.com/Benny0323/Yolov5-based-well-detection)
+[![](https://img.shields.io/github/license/Benny0323/Yolov5-based-well-detection)](hhttps://github.com/Benny0323/Yolov5-based-well-detection/blob/main/LICENSE) 
+</div>
 ![image](https://github.com/Benny0323/Yolov5-based-well-detection/blob/main/demo.jpg)
 ### 🧨 Congratulations! We achieve 0.948 of mAP on 350 test images in a competition!
  To-do list:
